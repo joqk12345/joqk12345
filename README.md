@@ -1,6 +1,6 @@
 # 你好，我是 Gizmo
 
-常驻北京，AI 基础设施工程师。  
+常驻北京，AI Engineer。  
 我主要关注 LLM 推理系统、隔离执行环境、平台能力和性能调优，帮助 AI 团队把模型更稳定、更高效地部署出来。
 
 Focused on inference serving, performance tuning, sandboxed execution, and coding-agent infrastructure.
