@@ -47,6 +47,8 @@ Focused on inference serving, performance tuning, sandboxed execution, and codin
 
 **工具与应用 / Tooling**
 
+![Codex](https://img.shields.io/badge/-Codex-000000?style=flat&logo=openai&logoColor=white)
+![Claude%20Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
