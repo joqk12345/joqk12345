@@ -52,8 +52,6 @@ Focused on inference serving, performance tuning, sandboxed execution, and codin
 
 ## GitHub 活动 / Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/joqk12345)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joqk12345&theme=github-compact)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joqk12345&show_icons=true&theme=default&hide_rank=false)
