@@ -1,8 +1,7 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/joqk12345/joqk12345/main/header.svg" alt="Gizmo">
-</h1>
-
 <div align="center">
+
+<!-- Profile Header -->
+<img src="https://github.com/joqk12345/joqk12345/raw/main/profile-3d-contrib.svg" width="400px"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/joqk12345?style=social)](https://github.com/joqk12345)
 [![GitHub stars](https://img.shields.io/github/stars/joqk12345?style=social)](https://github.com/joqk12345?q=is%3Aowner)
@@ -69,29 +68,51 @@ I'm an **AI Infrastructure Engineer** passionate about building high-performance
 
 ---
 
-## 📂 Featured Projects / 重点项目
+## 🚀 Current Projects / 当前项目
 
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [llm-inference-optimization](https://github.com/joqk12345/llm-inference-optimization) | LLM推理优化实践指南 / Practical LLM inference tuning guide | Python, Docker, Vue |
-| [ai-coding-handbook](https://github.com/joqk12345/ai-coding-handbook) | AI辅助编程手册 / AI-assisted coding manual (Claude, Codex, Gemini) | TypeScript, Vue, VitePress |
-| [E-reader](https://github.com/joqk12345/E-reader) | 本地优先EPUB阅读器 + AI功能 / Local-first EPUB reader with AI | TypeScript, Rust, Tauri |
-| [tiny-notepad](https://github.com/joqk12345/tiny-notepad) | 本地优先笔记应用 / Local-first note-taking app | TypeScript, Rust, Tauri |
-| [news-editor](https://github.com/joqk12345/news-editor) | 新闻编辑Agent / Telegram-powered news editing agent | TypeScript, Telegram API |
-| [vllm-version-monitor](https://github.com/joqk12345/vllm-version-monitor) | vLLM版本监控 / vLLM version monitoring | Python |
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [llm-inference-optimization](https://github.com/joqk12345/llm-inference-optimization) | LLM推理优化实践指南 | ⭐ |
+| [ai-coding-handbook](https://github.com/joqk12345/ai-coding-handbook) | AI辅助编程手册 (Claude, Codex, Gemini) | ⭐ |
+| [E-reader](https://github.com/joqk12345/E-reader) | 本地优先EPUB阅读器 + AI功能 | ⭐ |
+| [tiny-notepad](https://github.com/joqk12345/tiny-notepad) | 本地优先笔记应用 | ⭐ |
+| [news-editor](https://github.com/joqk12345/news-editor) | 新闻编辑Agent (Telegram) | ⭐ |
+| [vllm-version-monitor](https://github.com/joqk12345/vllm-version-monitor) | vLLM版本监控 | ⭐ |
 
 </div>
 
 ---
 
-## 📈 Stats / 统计数据
+## 📈 GitHub Activity / GitHub 活动
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joqk12345&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joqk12345&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joqk12345&theme=github-compact)
+
+</div>
+
+---
+
+## 📊 Stats / 统计数据
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=joqk12345&show_icons=true&theme=default&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joqk12345&layout=compact&hide_progress=true)
+
+</div>
+
+---
+
+## 🔗 Connect / 连接
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-hi.qianyan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi.qianyan@gmail.com)
+[![X/Twitter](https://img.shields.io/badge/-@Galaxie48729460-1DA1F2?style=flat&logo=X&logoColor=white)](https://x.com/Galaxie48729460)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=ghost&logoColor=white)](https://joqk12345.github.io)
 
 </div>
 
