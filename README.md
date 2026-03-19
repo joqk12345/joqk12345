@@ -26,7 +26,7 @@ Focused on inference serving, performance tuning, sandboxed execution, and codin
 - **[llm-inference-optimization](https://github.com/joqk12345/llm-inference-optimization)**：围绕 LLM 推理性能做实验、记录和优化总结，重点放在部署实践和性能调优。
 - **[vllm-version-monitor](https://github.com/joqk12345/vllm-version-monitor)**：用于跟踪上游 vLLM 版本变化的轻量工具，方便持续关注推理栈演进。
 - **[ai-coding-handbook](https://github.com/joqk12345/ai-coding-handbook)**：整理 Claude、Codex、Gemini 等 AI 辅助编程实践，偏工程工作流、方法论和落地经验。
-- **[news-editor](https://github.com/joqk12345/news-editor)**：基于 Telegram 的新闻编辑 Agent。
+- **[gizamo-craw](https://github.com/joqk12345/gizamo-craw)**：基于 Telegram 的新闻编辑 Agent。
 
 ## Side Projects
 
