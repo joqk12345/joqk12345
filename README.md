@@ -16,6 +16,7 @@ Focused on inference serving, performance tuning, sandboxed execution, and codin
 - **运行时与隔离执行环境**：持续研究 sandbox、受限执行、工具调用边界和 agent runtime 的工程实现。
 - **AI 平台基础设施**：关注模型部署、批处理流程、可观测性、可靠性，以及服务模型团队的实际平台问题。
 - **Coding Agent 系统**：做 terminal-first 的 scaffolding、harness、context engineering 和自动化编程工作流。
+- **In-House Coding Agents / 内部编码代理建设**：我认为 Coding IDE 时代正在结束，下一步会走向 IDE for Agents。抽象层级会从文件上移到 Agent，需要新的指挥中心来编排 Agent 团队，而 agentic organization 也会首次像代码一样具备可读性与可 fork 性。
 
 ## 代表项目 / Featured Projects
 
