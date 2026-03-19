@@ -2,7 +2,7 @@
   <img src="https://github.com/joqk12345/joqk12345/raw/main/profile-3d-contrib.svg" width="360" alt="3D contribution graph" />
 </div>
 
-# 你好，我是 joqk12345
+# 你好，我是 gadget
 
 常驻北京，AI 基础设施工程师。  
 我主要关注 LLM 推理系统、隔离执行环境、平台能力和性能调优，帮助 AI 团队把模型更稳定、更高效地部署出来。
@@ -13,13 +13,6 @@ Focused on inference serving, performance tuning, sandboxed execution, and codin
 [Blog](https://joqk12345.github.io) · [Email](mailto:hi.qianyan@gmail.com) · [X / Twitter](https://x.com/Galaxie48729460)
 
 > Ship beats perfect. 保持好奇心，持续学习。
-
-<details>
-<summary>为什么叫 "joqk12345"？</summary>
-
-这个名字来自 "gadget"。我一直偏爱小工具、快速实验和对新技术的亲手探索，这个名字也就保留下来了。
-
-</details>
 
 ## 我在做什么 / What I'm Working On
 
