@@ -1,125 +1,75 @@
 <div align="center">
-
-<!-- Profile Header -->
-<img src="https://github.com/joqk12345/joqk12345/raw/main/profile-3d-contrib.svg" width="400px"/>
-
-[![GitHub followers](https://img.shields.io/github/followers/joqk12345?style=social)](https://github.com/joqk12345)
-[![GitHub stars](https://img.shields.io/github/stars/joqk12345?style=social)](https://github.com/joqk12345?q=is%3Aowner)
-
-**这个名字源于'gadget'，意为小工具或小玩意，给人一种好奇心强、喜欢探索新技术的感觉**
-
-AI Infrastructure Engineer | Python & TypeScript | Beijing 🇨🇳
-
-[Blog](https://joqk12345.github.io) · [Email](mailto:hi.qianyan@gmail.com) · [X/Twitter](https://x.com/Galaxie48729460)
-
+  <img src="https://github.com/joqk12345/joqk12345/raw/main/profile-3d-contrib.svg" width="360" alt="3D contribution graph" />
 </div>
 
----
+# 你好，我是 joqk12345
 
-## 🛠 Tech Stack / 技术栈
+常驻北京，AI 基础设施工程师。  
+我主要关注 LLM 推理系统、隔离执行环境、平台能力和性能调优，帮助 AI 团队把模型更稳定、更高效地部署出来。
 
-<div align="center">
+Focused on inference serving, performance tuning, sandboxed execution, and coding-agent infrastructure.
 
-### AI Inference / AI推理
+[![GitHub followers](https://img.shields.io/github/followers/joqk12345?style=social)](https://github.com/joqk12345)
+[Blog](https://joqk12345.github.io) · [Email](mailto:hi.qianyan@gmail.com) · [X / Twitter](https://x.com/Galaxie48729460)
+
+> Ship beats perfect. 保持好奇心，持续学习。
+
+<details>
+<summary>为什么叫 "joqk12345"？</summary>
+
+这个名字来自 "gadget"。我一直偏爱小工具、快速实验和对新技术的亲手探索，这个名字也就保留下来了。
+
+</details>
+
+## 我在做什么 / What I'm Working On
+
+- **推理服务与性能优化**：围绕 vLLM、SGLang、TensorRT-LLM 做部署、压测、调优，关注吞吐、延迟、资源利用率和稳定性。
+- **运行时与隔离执行环境**：持续研究 sandbox、受限执行、工具调用边界和 agent runtime 的工程实现。
+- **AI 平台基础设施**：关注模型部署、批处理流程、可观测性、可靠性，以及服务模型团队的实际平台问题。
+- **Coding Agent 系统**：做 terminal-first 的 scaffolding、harness、context engineering 和自动化编程工作流。
+
+## 代表项目 / Featured Projects
+
+- **[llm-inference-optimization](https://github.com/joqk12345/llm-inference-optimization)**：围绕 LLM 推理性能做实验、记录和优化总结，重点放在部署实践和性能调优。
+- **[vllm-version-monitor](https://github.com/joqk12345/vllm-version-monitor)**：用于跟踪上游 vLLM 版本变化的轻量工具，方便持续关注推理栈演进。
+- **[ai-coding-handbook](https://github.com/joqk12345/ai-coding-handbook)**：整理 Claude、Codex、Gemini 等 AI 辅助编程实践，偏工程工作流、方法论和落地经验。
+- **[news-editor](https://github.com/joqk12345/news-editor)**：基于 Telegram 的新闻编辑 Agent。
+
+## Side Projects
+
+- **[E-reader](https://github.com/joqk12345/E-reader)**：本地优先的 EPUB 阅读器，叠加 AI 能力做增强阅读体验。
+- **[tiny-notepad](https://github.com/joqk12345/tiny-notepad)**：本地优先的轻量笔记应用，强调简单、可控和低负担。
+
+## 技术栈 / Stack
+
+**推理服务 / Inference**
+
 ![vLLM](https://img.shields.io/badge/-vLLM-purple?style=flat)
 ![SGLang](https://img.shields.io/badge/-SGLang-orange?style=flat)
 ![TensorRT-LLM](https://img.shields.io/badge/-TRT--LLM-76B900?style=flat&logo=nvidia)
 
-### AI Infrastructure / AI基础设施
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat&logo=Rust&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=Kubernetes&logoColor=white)
+**平台基础设施 / Infra**
 
-### Development / 开发
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-![Tauri](https://img.shields.io/badge/-Tauri-2L2L2L?style=flat&logo=Tauri&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-</div>
+**工具与应用 / Tooling**
 
----
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
 
-## 👨‍💻 About Me / 关于我
-
-<div align="center">
-
-I'm an **AI Infrastructure Engineer** passionate about building high-performance platforms for AI teams.
-
-我是**AI基础设施工程师**，专注于构建高性能AI平台，帮助团队更快部署。
-
-**AI Inference / AI推理**
-- vLLM, SGLang, TensorRT-LLM 实践与优化
-- LLM 推理性能调优与部署
-
-**AI Infrastructure / AI基础设施**
-- 🏗 Sandbox & 隔离执行环境
-- 🔧 Context Engineering (上下文工程)
-- ☁️ AI Platform Infrastructure (推理/训练/批处理平台)
-
-**Current Focus / 当前关注：**
-- 🤖 AI Agents & Autonomous Coding
-- 📟 Building Coding Agents for Terminal (Scaffolding, Harness, Context Engineering)
-- 📖 [ai-coding-handbook](https://github.com/joqk12345/ai-coding-handbook) - AI辅助编程实践
-
-**Mission:** Help AI teams deploy faster / 帮助AI团队更快部署
-
-</div>
-
----
-
-## 🚀 Current Projects / 当前项目
-
-<div align="center">
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [llm-inference-optimization](https://github.com/joqk12345/llm-inference-optimization) | LLM推理优化实践指南 | ⭐ |
-| [ai-coding-handbook](https://github.com/joqk12345/ai-coding-handbook) | AI辅助编程手册 (Claude, Codex, Gemini) | ⭐ |
-| [E-reader](https://github.com/joqk12345/E-reader) | 本地优先EPUB阅读器 + AI功能 | ⭐ |
-| [tiny-notepad](https://github.com/joqk12345/tiny-notepad) | 本地优先笔记应用 | ⭐ |
-| [news-editor](https://github.com/joqk12345/news-editor) | 新闻编辑Agent (Telegram) | ⭐ |
-| [vllm-version-monitor](https://github.com/joqk12345/vllm-version-monitor) | vLLM版本监控 | ⭐ |
-
-</div>
-
----
-
-## 📈 GitHub Activity / GitHub 活动
-
-<div align="center">
+## GitHub 活动 / Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joqk12345&theme=github-compact)
-
-</div>
-
----
-
-## 📊 Stats / 统计数据
-
-<div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joqk12345&show_icons=true&theme=default&hide_rank=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joqk12345&layout=compact&hide_progress=true)
 
-</div>
-
----
-
-## 🔗 Connect / 连接
-
-<div align="center">
+## 联系方式 / Connect
 
 [![Email](https://img.shields.io/badge/-hi.qianyan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi.qianyan@gmail.com)
-[![X/Twitter](https://img.shields.io/badge/-@Galaxie48729460-1DA1F2?style=flat&logo=X&logoColor=white)](https://x.com/Galaxie48729460)
+[![X / Twitter](https://img.shields.io/badge/-@Galaxie48729460-000000?style=flat&logo=x&logoColor=white)](https://x.com/Galaxie48729460)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=ghost&logoColor=white)](https://joqk12345.github.io)
-
-</div>
-
----
-
-<div align="center">
-
-> "Ship beats perfect" · "保持好奇心，持续学习"
-
-</div>
