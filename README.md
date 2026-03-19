@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/joqk12345/joqk12345/raw/main/profile-3d-contrib.svg" width="360" alt="3D contribution graph" />
-</div>
-
 # 你好，我是 gadget
 
 常驻北京，AI 基础设施工程师。  
